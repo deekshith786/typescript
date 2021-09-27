@@ -5,4 +5,6 @@
 // why to use :
 // data type support  inferance data type
 // enchanced ide support
+// how to run the typescript 
+// reference : https://code.visualstudio.com/docs/editor/tasks#vscode
 //# sourceMappingURL=running-notes.js.map
